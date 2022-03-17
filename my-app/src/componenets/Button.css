@@ -1,0 +1,16 @@
+.butt {
+    border: none;
+    background: white;
+    padding: 8px 16px;
+    font-size: 1rem;
+    color: rgb(15, 13, 13);
+    border-radius: 2px;
+    transition: 0.3s all ease-in-out;
+    cursor: pointer;
+    margin-bottom: 0.7rem;
+    margin-right: 2rem;
+}
+.butt:hover{
+   color:rgb(77, 219, 255);
+   background-color:rgb(252, 252, 252);
+}

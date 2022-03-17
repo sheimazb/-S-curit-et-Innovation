@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "fire-gaz-detection",
+    "staging": "fire-gaz-detection"
+  },
+  "targets": {}
+}

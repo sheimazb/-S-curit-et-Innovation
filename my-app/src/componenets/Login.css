@@ -1,0 +1,43 @@
+.login {
+  min-height: 100vh;
+  background-color: rgb(9, 41, 51);
+}
+.bg-image {
+  background-image: url('https://wifinowevents.s3.amazonaws.com/uploads/2019/08/iStock-1137735784-1-e1565355034901.jpg');
+  background-size: cover;
+  background-position-x:center;
+
+}
+.login-heading {
+  font-weight: 300;
+  color: aliceblue;
+  text-align: center;
+}
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+.invalid
+{
+  border-color: rgb(223, 52, 52)!important;
+}
+.mb-2{
+  background-color: rgb(151, 205, 255);
+  border-color: aliceblue;
+  color: black;
+}
+.mb-2:hover{
+  background-color: rgb(106, 195, 236);
+  border-color: aliceblue;
+  
+}
+.small{
+  color: rgb(230, 230, 154);
+}
+.mb-3{
+  color: aliceblue;
+}
+.form-floating {
+  color: black;
+}

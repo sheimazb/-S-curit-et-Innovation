@@ -1,0 +1,31 @@
+.login2 {
+    min-height: 100vh;
+    background-color: rgba(64, 65, 62, 0.884);
+  }
+  .bg-image2 {
+    background-color: rgb(135, 240, 37);
+    background-size: cover;
+    background-position: center;
+  }
+  .login-heading2 {
+    font-weight: 300;
+    color: white;
+    text-align: center;
+  }
+  .btn-login2 {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+  .invalid2
+  {
+    border-color: rgb(218, 203, 184)!important;
+  }
+  .mb-22{
+    background-color: rgb(185, 245, 46);
+    border-color: rgb(150, 252, 67);
+  }
+  .small2{
+    color: rgb(230, 230, 154);
+  }
+  

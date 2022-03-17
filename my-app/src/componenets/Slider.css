@@ -1,0 +1,45 @@
+.carousel{
+    position:fixed;
+    width: 100%;
+    object-fit: cover;  
+}
+.carousel .thumbs{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0px;
+    background-color: rgb(171, 224, 238);
+}
+.carousel .thumb{
+    
+    margin: 0 5px;
+    cursor: pointer;
+    
+}
+.carousel .overlay{
+    width: 70%;
+    height: 150px;
+    position: absolute;
+    top: 30%;
+    transform: translateY(-50);
+    left: 10%;
+    padding: 0.4rem 1.5rem;
+    text-align: left;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+    background-color: rgba(8, 8, 8, 0.6);
+    color: aliceblue;
+    text-transform:capitalize;
+    font-display:initial;
+    font-weight: 700;
+    font-kerning: initial;
+}
+.carousel .slider-wrapper {
+   object-position: center;
+  height: 590px;
+  width: fit-content;
+    
+}
+
+

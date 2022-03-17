@@ -1,0 +1,29 @@
+.navbar2{
+    height: 10vh;
+    background-color: rgb(152, 230, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .nav-item2{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+  .nav-item2 a {
+    text-decoration: none;
+    font-style:inherit;
+  
+    color: rgb(255, 255, 255);
+    font-size: 1.3rem;
+    margin-right: 2rem;
+    margin-top: 0.5rem;
+  padding: 6px 16px;
+  border-radius: 2px;
+  }
+  .nav-item2 a:hover{
+    
+    background-color:rgb(86, 88, 83);
+    color: rgb(255, 255, 255);
+  
+  }

@@ -1,0 +1,74 @@
+.App-header{
+  text-align: center;
+  background-image: url('https://images.unsplash.com/photo-1563468421716-6ed702e5cf28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.titre{
+  font-weight: 600;
+  color: rgb(245, 242, 226);
+  text-align: center;
+  padding-top: 15%;
+}
+
+.navbar{
+  height: 10vh;
+  background-color: rgb(43, 40, 40);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navbar-logo{
+  color: rgb(224, 236, 221);
+  text-decoration: none;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-bottom: 0.7rem;
+}
+.navbar-logo:hover{
+  color: white;
+  
+}
+
+
+.accueil{
+
+  background-position-x: 300px;
+  background-position-y: 100px;
+background-size: cover;
+height: 100vh;
+}
+.nav-items{
+  display: flex;
+  list-style: none;
+  text-align: center;
+  width: 70vw;
+  justify-content: flex-end;
+  margin-right: 2rem;
+}
+.nav-item{
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.nav-item a {
+  text-decoration: none;
+  font-style:inherit;
+
+  color: white;
+  font-size: 1.3rem;
+  margin-right: 2rem;
+  margin-top: 0.5rem;
+padding: 6px 16px;
+border-radius: 2px;
+}
+.nav-item a:hover{
+  
+  background-color:rgb(77, 219, 255);
+  color: aliceblue;
+
+}
